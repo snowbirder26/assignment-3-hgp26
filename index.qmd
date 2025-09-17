@@ -6,7 +6,7 @@ title: "Collaborative Website"
 
 ### Collaborators:
 
--   Hannah Pryor (`https://github.com/snowbirder26`)
+-   Hannah Pryor (the coolest birder there is!) (`https://github.com/snowbirder26`)
 
 -   Trisha Bhujle (`https://github.com/trisha-bhujle`)
 
