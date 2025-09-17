@@ -1,7 +1,17 @@
 ---
-title: "assignment-3-hgp26"
+title: "Collaborative Website"
 ---
 
-This is a Quarto website.
+<br>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Collaborators:
+
+-   Hannah Pryor (`https://github.com/snowbirder26`)
+
+-   Trisha Bhujle (`https://github.com/trisha-bhujle`)
+
+<br>
+
+![*Nēnē (Hawaiian Goose), photo by Hannah Pryor, 2025*](images/nene_hawaii.JPG)
+
+<br>

@@ -1,5 +1,15 @@
 ---
-title: "About"
+title: "Hannah"
 ---
 
-About this site
+<br>
+
+### About Me:
+
+-   I love birds and have been birding since I was nine years old
+
+-   My favorite season is winter because of downhill skiing
+
+-   I want to live in Colorado someday and rock climb in the mountains
+
+<br>
